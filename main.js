@@ -17,7 +17,7 @@ div.appendChild(mfe);
 const CUSTOM_KEYBOARD_LAYER = {
   "custom-layer": {
     styles: "",
-    rows: [[{ latex: 'A_0' }, { latex: '\\mathord{A_0}' }, { latex: '+' }]]
+    rows: [[{ latex: 'A_0' }, { latex: '\\mathord{A_0}' }, { latex: '+' }, { latex: '\\mathop{^\\complement}' }]]
   }
 };
 
