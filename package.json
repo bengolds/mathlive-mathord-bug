@@ -1,0 +1,21 @@
+{
+  "name": "mathlive-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "dependencies": {
+    "mathlive": "^0.69.7"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.22",
+    "esbuild": "^0.11.11",
+    "esbuild-jest": "^0.5.0",
+    "jest": "^26.6.3",
+    "vite": "^2.1.5"
+  }
+}
